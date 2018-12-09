@@ -1,4 +1,4 @@
-> *Note:* Please use the main [MaterialDesign](https://github.com/Templarian/MaterialDesign/issues) repo to report issues. This repo is for distribution of the JavaScript files only.
+> *Note:* Please use the main [MaterialDesignLight](https://github.com/Templarian/MaterialDesignLight/issues) repo to report issues. This repo is for distribution of the JavaScript files only.
 
 # JavaScript/TypeScript - Material Design Icons Light
 
